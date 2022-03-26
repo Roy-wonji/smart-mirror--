@@ -67,7 +67,7 @@
 		"suncalc": "^1.8.0"
 	},
 	"optionalDependencies": {
-		"electron": "^13.5.1"
+		"electron": "^13.6.6"
 	},
 	"dependencies": {
 		"colors": "^1.4.0",
